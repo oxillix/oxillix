@@ -1,13 +1,15 @@
 <div align="center">
-<img src="https://github.com/oxillix/oxillix/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/oxillix/oxillix/raw/main/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Nicolas, an aspiring full-stack web & mobile developer 👨‍💻</div>  
-  
+### <h1 align="center">I'm Nicolas, an aspiring full-stack web & mobile developer 👨‍💻</h1>  
 
+<br>
+
+<!--
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+-->  
 
 - 🌱 I’m currently learning **[FullStackOpen](https://fullstackopen.com/en/)** and **[Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)**  
   
