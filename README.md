@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nicolas Arnouts</h1>
 <h3 align="center">An aspiring Full-Stack developer from Ghent, Belgium</h3>
 
-- 🌱 I’m currently learning **FullStackOpen**
+- 🌱 I’m currently learning **[FullStackOpen](https://fullstackopen.com/en/)**
 
-- 💬 Ask me about **React, linux, Python, Django**
+- 💬 Ask me about **React, React Native, Linux, Python, Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
