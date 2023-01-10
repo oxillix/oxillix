@@ -5,8 +5,6 @@
 
 ### <h1 align="center">I'm Nicolas, an aspiring full-stack web & mobile developer 👨‍💻</h1>  
 
-<br>
-
 <!--
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
 -->  
