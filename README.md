@@ -165,9 +165,9 @@ Figma is my tool of choice when it comes to UI Design. The amazing community, pl
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oxillix&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oxillix&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxillix&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oxillix&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
