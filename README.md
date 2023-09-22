@@ -93,7 +93,7 @@
 
 # Full-Stack developer roadmap
 <details>
-<summary><strong><em>Click here to show the roadmap</em></strong></summary>
+<summary><strong><em>👉 Click here to show the roadmap 👈</em></strong></summary>
   
 ## Coding
 ### Frontend
