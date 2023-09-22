@@ -93,7 +93,7 @@
 
 # Full-Stack developer roadmap
 <details>
-  <summary>Click here to show the roadmap</summary>
+    <summary><img src="/static/images/expandbutton.png" alt="Click here to show the roadmap"></summary>
   
 ## Coding
 ### Frontend
