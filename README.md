@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
 -->  
 
-- 🌱 I’m currently learning **[FullStackOpen](https://fullstackopen.com/en/)** and **[Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)**  
+- 🌱 I’m currently learning **[FullStackOpen](https://fullstackopen.com/en/)** and **[Uxcel - UI/UX design course](https://uxcel.com/)**  
   
 
-- ❓ Ask me about **React, React Native, Linux, Python, Django**  
+- ❓ Ask me about **React, TypeScript, Next.js, Tailwind CSS, React Native, Linux, Python, Django**  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -114,19 +114,21 @@ In the frontend, I want to specialise in React and React Native. TailwindCSS for
 
 #### React/RN
 ##### Theory
-![40%](https://progress-bar.dev/40)
+![70%](https://progress-bar.dev/70)
 
 - [ ] [FullStackOpen -> React, Redux, Node.js, MongoDB, GraphQL and TypeScript](https://fullstackopen.com/en/about)
 ##### Applied
-![33%](https://progress-bar.dev/33)
+![66%](https://progress-bar.dev/66)
 
 - [x] [Let's build Deliveroo 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)](https://www.youtube.com/watch?v=taPz40VmyzQ)
 	result -> [deliveroo clone](https://github.com/oxillix/deliveroo-clone.git)
+- [x] [Build a SaaS: AI Companion With Next 13, React, Stripe, Prisma, MySQL, Tailwind)](https://www.youtube.com/watch?v=PjYWpd7xkaM)
 - [ ] [Let's build a CRYPTO LOTTERY with NEXT.JS! (React.js, Solidity, TypeScript, TailwindCSS, thirdweb)](https://www.youtube.com/watch?v=oNlhptQmChc)
-- [ ] [Let's build Uber 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Google Autocomplete)](https://www.youtube.com/watch?v=bvn_HYpix6s)
+
 
 ### Backend
 In the backend, I want to specialise in Python and Django. Python is my language of choice because of its simplicity and large amount of libraries. Eventually, I want to make integrations with ML libraries.
+UPDATE: This was before I learned TypeScript and Node.js. I prefer the latter more now :)
 
 #### Theory
 ![33%](https://progress-bar.dev/33)
@@ -144,8 +146,8 @@ In the backend, I want to specialise in Python and Django. Python is my language
 Figma is my tool of choice when it comes to UI Design. The amazing community, plugins and collaborative tools make it superb!
 
 ### Theory
-![20%](https://progress-bar.dev/20)
-- [ ] [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design) (Postponed due to time constraints & $38/mo fee)
+![30%](https://progress-bar.dev/30)
+- [ ] [Uxcel - Learn UX design](https://uxcel.com/)
 
 ### Applied
 ![38%](https://progress-bar.dev/38)
