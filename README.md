@@ -128,7 +128,8 @@ In the frontend, I want to specialise in React and React Native. TailwindCSS for
 
 ### Backend
 In the backend, I want to specialise in Python and Django. Python is my language of choice because of its simplicity and large amount of libraries. Eventually, I want to make integrations with ML libraries.
-UPDATE: This was before I learned TypeScript and Node.js. I prefer the latter more now :)
+
+**UPDATE:** This was before I learned TypeScript and Node.js. I prefer the latter more now :)
 
 #### Theory
 ![33%](https://progress-bar.dev/33)
