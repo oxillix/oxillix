@@ -106,10 +106,7 @@ In the frontend, I want to specialise in React and React Native. TailwindCSS for
 - [x] [Tailwind CSS v2.0: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 - [x] (Optional) [Building Workcation with Tailwind CSS - From the Tailwind CSS creator himself](https://www.youtube.com/watch?v=0aTRN9CSCY0&list=PL7CcGwsqRpSO3J4YU6BkWqjU0XcVSaPXl)
 - [ ] Convert designs to code with HTML & TailwindCSS:
-	- [ ] [Today Task Design Web App](https://www.figma.com/community/file/1193439034106464228)
-	- [ ] [Weather dashboard](https://www.figma.com/community/file/1192785246473322024)
-	- [ ] [Admin Dashboard](https://www.figma.com/community/file/1187266649453715418)
-	- [ ] [Calendar](https://www.figma.com/community/file/1192592613359389082)
+	- [ ] https://www.figma.com/community/file/1158392328642074006
 
 
 #### React/RN
